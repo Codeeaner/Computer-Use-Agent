@@ -37,7 +37,7 @@ An autonomous AI Agent that can **See**, **Think**, and **Act** to perform any t
 3. **Clone this repository**:
    ```powershell
    git clone <repository-url>
-   cd STC
+   cd Computer-Use-Agent
    ```
 
 4. **Install Python dependencies**:
